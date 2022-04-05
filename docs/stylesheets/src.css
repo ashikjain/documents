@@ -10,12 +10,12 @@ h1{
     text-align: center;
     background-color: lightgrey;
     height: 150px;
-    margin-top: -1.5%;
     margin: -1.5%;
 }
 img{
     padding: 60px;
     width: 28%;
+    height: auto;
     cursor: pointer;
     border-radius: 20px;
 
