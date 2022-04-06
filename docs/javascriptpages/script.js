@@ -3,7 +3,7 @@ function enlargeimage(img2){
     img2.style.height="200%" ;
     img2.style.transform = "scale(1.5)";
     img2.style.margin="70px";
-    img2.style.transition ="transform 2s ease";
+    img2.style.transition ="transform 0.8s ease";
 }
 
 function resize(srcimg){

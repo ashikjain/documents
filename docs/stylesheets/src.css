@@ -17,6 +17,21 @@ img{
     width: 28%;
     height: auto;
     cursor: pointer;
-    border-radius: 20px;
 
+}
+nav{
+    float: left;
+    font-size: 35px;
+    text-transform: capitalize;
+    background-color: lightblue;
+    margin-top: 35px;
+    margin-left: 1.3%;
+    padding: 20px;
+    width: 20%;
+    border-radius: 15px;
+    border: 2px solid blue;
+    height: 900%;
+}
+nav a{
+    text-decoration: none;
 }
