@@ -1,46 +1,49 @@
+body{
+    color: white;
+    font-family:monospace;
+}
 h1{
-    color: blue;
+    color: white;
     text-align: center;
-    font-family:cursive;   
+    font-family:monospace;   
     padding-top: 45px;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 .div1{
-
     text-align: center;
-    background-color: lightgrey;
-    height: 150px;
+    background-color: blue;
+    height: 120px;
     margin-top: -1.5%;
     margin: -1.5%;
 }
-.div2{
+.div2{ 
+    margin-left: 8%;
     display: inline-block;
-    margin-left: -0.2%;
     margin-top: 5%;
-    width: 100%;
-    height: max-content;
+    width: 75%;
     text-transform: capitalize;
     font-size: 40px;
-    background-color: linen; 
-    
-
+    background-color: blue; 
+    border: 2px solid blue;
+    border-radius: 20px;
+    text-align: center;
 
 }
 #left_side{
-    padding:20px;
-    margin-left: 10%;
-    width: max-content;
+    padding:10px;
     float: left;
-    
+    margin-left: 10%;
 }
 a{
     text-decoration: none;
+    color: white;
+    font-family: monospace;
+    text-transform: uppercase;
 }
 
 #right_side{
-    padding:20px;
-    width: max-content;
     float: right;
-    margin-right: 30%;
-    
+    color: white;
+    padding:10px;
+    margin-right: 10%;
 }

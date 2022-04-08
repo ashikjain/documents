@@ -12,4 +12,5 @@ function resize(srcimg){
     srcimg.style.transform = "scale(1.5)";
     srcimg.style.transition ="transform 0.2s ease";
     srcimg.style.margin="40px";
+    srcimg.style.title="dobleclick";
 }
